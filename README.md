@@ -23,7 +23,7 @@ Java | Python | JavaScript | SQL
 Spring Boot | REST APIs | Microservices
 
 ### Databases
-MySQL
+Postgres
 
 ### Testing
 Postman | Selenium WebDriver | PyTest
