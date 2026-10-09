@@ -65,5 +65,5 @@ A Python-based voice assistant project.
 
 ## 🤝 Connect With Me
 
-- LinkedIn: ADD_YOUR_LINKEDIN_URL
+- LinkedIn: https://www.linkedin.com/in/anish-kumar-pathak-245b02329/?isSelfProfile=true
 - GitHub: https://github.com/anish110082-cmyk
